@@ -1,0 +1,4 @@
+function moreaboutHome(address,distanceFromTown,hasneighbours)
+{
+    return typeof(address)+typeof(distanceFromTown)+typeof(hasneighbours)
+}
